@@ -25,7 +25,7 @@ int main()
     {
         printf("velke\n");
         //je na konci bodka?
-        if(((int)r[strlen(r)])==46)
+        if(((int)r[strlen(r)-1])==46)
         {
             printf("je to veta\n");
         }
