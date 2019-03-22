@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1454519855 source:c:\users\prometeus\desktop\c\median\main.c
+	<stdio.h>
+	<stdlib.h>
+

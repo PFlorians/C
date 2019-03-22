@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390415698 source:c:\users\prometeus\desktop\c\hra_kapitola1_minihra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

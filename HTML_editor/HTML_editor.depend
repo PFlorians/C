@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1409937000 source:c:\users\prometeus\desktop\c\html_editor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	<dirent.h>
+	<unistd.h>
+	<windows.h>
+
+1403438007 c:\program files\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+

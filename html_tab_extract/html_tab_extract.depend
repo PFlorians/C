@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1439558172 source:c:\users\prometeus\desktop\c\html_tab_extract\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+

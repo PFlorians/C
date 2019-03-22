@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1400234344 source:c:\users\prometeus\desktop\c\matice osetrenie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<dirent.h>
+	<gsl/gsl_math.h>
+	<gsl/gsl_sf_bessel.h>
+
+1152001600 c:\program files\gnuwin32\include\gsl\gsl_math.h
+	<math.h>
+	<gsl/gsl_sys.h>
+	<gsl/gsl_machine.h>
+	<gsl/gsl_precision.h>
+	<gsl/gsl_nan.h>
+	<gsl/gsl_pow_int.h>
+	<gsl/gsl_types.h>
+
+1152004496 c:\program files\gnuwin32\include\gsl\gsl_sys.h
+	<gsl/gsl_types.h>
+
+1152004526 c:\program files\gnuwin32\include\gsl\gsl_types.h
+
+1059128362 c:\program files\gnuwin32\include\gsl\gsl_machine.h
+	<limits.h>
+	<float.h>
+
+1119774334 c:\program files\gnuwin32\include\gsl\gsl_precision.h
+	<gsl/gsl_types.h>
+
+1119774334 c:\program files\gnuwin32\include\gsl\gsl_nan.h
+
+1152003658 c:\program files\gnuwin32\include\gsl\gsl_pow_int.h
+	<gsl/gsl_types.h>
+
+1152003862 c:\program files\gnuwin32\include\gsl\gsl_sf_bessel.h
+	<stdlib.h>
+	<gsl/gsl_mode.h>
+	<gsl/gsl_precision.h>
+	<gsl/gsl_sf_result.h>
+	<gsl/gsl_types.h>
+
+1119774334 c:\program files\gnuwin32\include\gsl\gsl_mode.h
+
+1152004150 c:\program files\gnuwin32\include\gsl\gsl_sf_result.h
+	<gsl/gsl_types.h>
+

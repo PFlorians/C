@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452032851 source:c:\users\prometeus\desktop\c\max-heap\main.c
+	<stdio.h>
+	<stdlib.h>
+

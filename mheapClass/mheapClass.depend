@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1494877530 source:c:\users\prometeus\desktop\c\mheapclass\main.cpp
+	<iostream>
+	<vector>
+	"include/MinHeap.h"
+	<stdio.h>
+	<typeinfo>
+	<cxxabi.h>
+	"DebugUtilitary.h"
+	<csignal>
+
+1494859704 c:\users\prometeus\desktop\c\mheapclass\include\minheap.h
+	"heap.h"
+	<iostream>
+	<vector>
+
+1488326662 c:\users\prometeus\desktop\c\mheapclass\include\heap.h
+	<iostream>
+
+1494865696 source:c:\users\prometeus\desktop\c\mheapclass\src\heap.cpp
+	"../include/Heap.h"
+	<cstring>
+	<stdio.h>
+
+1494875009 source:c:\users\prometeus\desktop\c\mheapclass\src\minheap.cpp
+	"../include/MinHeap.h"
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<typeinfo>
+	<cxxabi.h>
+
+1494875957 c:\users\prometeus\desktop\c\mheapclass\include\debugutilitary.h
+	<stdexcept>
+	<csetjmp>
+	<csignal>
+
+1494877882 source:c:\users\prometeus\desktop\c\mheapclass\src\debugutilitary.cpp
+	"DebugUtilitary.h"
+	<stdio.h>
+	<stdlib.h>
+
