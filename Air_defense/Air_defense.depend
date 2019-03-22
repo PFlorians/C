@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1404474450 source:c:\users\prometeus\desktop\c\air_defense\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<curses.h>
+	<string.h>
+	"AA.h"
+
+1404482408 c:\users\prometeus\desktop\c\air_defense\aa.h
+
+1404476951 source:c:\users\prometeus\desktop\c\air_defense\sekv1.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	<time.h>
+	"AA.h"
+
+1403438007 c:\program files\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1404482408 source:c:\users\prometeus\desktop\c\air_defense\login.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+	"AA.h"
+

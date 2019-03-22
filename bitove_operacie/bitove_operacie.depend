@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1398671504 source:c:\users\prometeus\desktop\c\bitove_operacie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dirent.h>
+	<dos.h>
+

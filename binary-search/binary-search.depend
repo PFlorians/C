@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1451755162 source:c:\users\prometeus\desktop\c\binary-search\main.c
+	<stdio.h>
+	<stdlib.h>
+

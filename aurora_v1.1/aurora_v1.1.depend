@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393702092 source:c:\users\prometeus\desktop\c\aurora_v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

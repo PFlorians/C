@@ -1,0 +1,41 @@
+************zaciatok sekvencneho bloku->scitanie************
+57 + 76
+Spravny vysledok: 133
+Vasa odpoved: 11111111
+28 + 19
+Spravny vysledok: 47
+Vasa odpoved: 0
+21 + 13
+Spravny vysledok: 34
+Vasa odpoved: -9
+44 + 79
+Spravny vysledok: 123
+Vasa odpoved: 2
+72 + 1
+Spravny vysledok: 73
+Vasa odpoved: 0
+14 + 23
+Spravny vysledok: 37
+Vasa odpoved: 0
+68 + 69
+Spravny vysledok: 137
+Vasa odpoved: 0
+50 + 86
+Spravny vysledok: 136
+Vasa odpoved: 0
+26 + 91
+Spravny vysledok: 117
+Vasa odpoved: 0
+93 + 82
+Spravny vysledok: 175
+Vasa odpoved: 0
+Spravne: 0
+Nespravne: 10
+************koniec sekvencneho bloku->scitanie************
+************zaciatok sekvencneho bloku->scitanie************
+97 + 5
+Spravny vysledok: 102
+Vasa odpoved: 2
+Spravne: 0
+Nespravne: 1
+************koniec sekvencneho bloku->scitanie************
