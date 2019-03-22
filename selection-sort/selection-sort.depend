@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453918102 source:c:\users\prometeus\desktop\c\selection-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+

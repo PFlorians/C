@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1397469572 source:c:\users\prometeus\desktop\c\search_dir\main.c
+	<dirent.h>
+	<stdio.h>
+

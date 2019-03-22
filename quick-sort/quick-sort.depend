@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1465218927 source:c:\users\prometeus\desktop\c\quick-sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

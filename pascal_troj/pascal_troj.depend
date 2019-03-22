@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1389098923 source:c:\users\prometeus\desktop\c\pascal_troj\main.c
+	<stdio.h>
+	<stdlib.h>
+
