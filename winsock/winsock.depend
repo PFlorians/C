@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414087781 source:c:\users\prometeus\desktop\c\winsock\main.c
+	<stdio.h>
+	<stdlib.h>
+	<winsock2.h>
+	<windows.h>
+

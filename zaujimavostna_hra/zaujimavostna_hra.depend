@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1390416351 source:c:\users\prometeus\desktop\c\zaujimavostna_hra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

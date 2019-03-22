@@ -1,0 +1,38 @@
+....... ..... .......MM.MMMMMMMMMMMMMM7.... ........ ..... .
+....... . ... ...M,MM  ... M8..M.  .. .MMMM  ... ... ..... .
+...   . ....  M.M    . ....M M,M.   . ....~MM,..     ....  .
+        .   MM+        .  .M   M      .      =MM     .      
+ ..     ..NM    ..     . MMMMMMMMMM  ....     ..MM.  ...    
+ ..     M.?     ..  MM . .     ..     NM.     ...DM  . .    
+...   ..M.... ...MN  . ..... ....   . ...DM ....   MM..... .
+     M M       M                            M    .  MM      
+... M,  .... =~...   . ....  .....    ....  .?:.   ..,M..  .
+...8 M? M...M...  MMM~,MMM,,MMMMM.MMMM. MMMMMMMM...MNMMM.. .
+.. .M. M .$M..?MMMM... .N... .M....M. ...MMM....M.M. .MMD. .
+  MM    M.M      =M    . M    M . M   . MM.      MMNM8 .M   
+.N.   . .M... .... M.. ....M..M..N  . .M... ....  M. ...+M .
+ MM     ,.          .M        O      MN           =      M  
+N .     M..   . ..    MM.. MMZM8M   M ...   . ..   M ... MM.
+MM.   . N,MM ..MM.   . .M .M .D.M M.. .... M... MM M .... M 
+MM.....MM ..M+...M.......MI.:MM= M.......8  ..MMMMM :.....M.
+ZM.   .M ....I8...M  . ....M ..M.   . ..=M. .M..   .M.....M 
+.M. . .M..... M...M+Z88DMNM8MMM.8~M==8OMM.. M...  ..M.... M 
+$M.....M..... M.. M... .....M MM..... ..M+.  M......M.....M,
+NM     M: .  M   M.    .  M  ~. N     . .M   MM. M, I. .  M.
+MM.    ?,=MM  . M,     .~M   I ..M    ... M.. ...M M....  M.
+MI..  . M.MMMMM ...  . M.... 7.....M. . ....MMMM.  M ....OM.
+ :M     M            M .     N      NM.           7  .   M  
+.MM   . .M..  .... .M. ..M.  ,. .M  . M...  ....  M. ....M .
+  :M      M       M.     MM77M+MMM    ..M        M ?    M   
+ .M.MMMM.M.M  . ZMM  . ..M   M... ~   ..MMM . ..M MM...MM  .
+ ..MD.M .M. MMMMMMMM.  . .  MMMN.     . MMMMM .MOOMM MMM    
+... MM.M... .M ...   . ..... ....   ..,,M MMMM.     DDM... .
+     MM..      M       .              .    MM       MM      
+      M M       .M+   ..              .  M,        MM.      
+ ..    =OM      ..  MM ...     ..     MN..    .. NM. ...    
+ ..   . .M M    ..     .,MMMMMMMMMM,  ...      .MM   ..     
+        .  M.M.        .   MM  MM     .   .  MMM.    .      
+  .     . .  M MM.     . . + MMM      . . MM N..     .      
+.... .. ..... ..M?ZMM  ....+M..M .... OMMDN...... .. ..... .
+  .     . .     .. .MM ~MMMMMMMMMMMMMMM..     ..     . .    
+....... ..... ........ ... .    ..... ..... ........ ..... .

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1393671746 source:c:\users\prometeus\desktop\c\winexec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
